@@ -1,0 +1,498 @@
+section{
+
+background-image:url("NetflixBackground.jpg");
+background-size: 100% 100%;
+height: 100%;
+border-bottom: 8px solid #222;
+} 
+
+.classouter {
+ text-align: center;
+font-family: arial;
+}
+
+#silogo {
+  background-color: red;
+  color: white;
+  font: 35px;
+  cursor: pointer;
+  width: 100px;
+  height: 50px;
+  margin-right: 20px;
+}
+
+section > div > div{
+margin-right: 0px;
+margin-left: 80%;
+}
+
+#netlogo{
+margin-left: 3%;
+}
+
+.topclass{
+ margin-top: 50px;
+ margin-bottom: 50px;
+margin-left: 90px;
+margin-right: 90px;
+}
+
+.inner{
+  padding-top: 60px;
+  padding-bottom: 100px;
+}
+
+#idone{
+ font-size: 50px;
+ padding-left: 25%;
+padding-right: 25%;
+font-weight: bold;
+font-family: arial;
+text-align: center;
+}
+
+#idtwo{
+font-size: 27px;
+font-weight: Narrow;
+font-family: arial;
+margin-top: 0px;
+padding-top: 0px;
+padding-left: 20%;
+padding-right: 20%;
+}
+
+.classemail {
+ width: 42%;
+ maxlength: 15;
+ minlength: 6;
+border-top: 1px;
+border-bottom: 1px;
+border-left: 1px;
+border-right: 1px;
+}
+
+.trybutton {
+ width: 15%;
+text-decoration: none;
+font-size: 20px;
+height: 58px;
+background-color: #990000;
+color: white;
+}
+
+#idthree{
+font-size: 20px;
+font-weight: Narrow;
+padding-left: 15%;
+padding-right: 15%;  
+font-family: arial;
+}
+
+/*sec block*/
+
+.secondblock{
+padding-right: 50%;
+padding-left:80px;
+padding-bottom: 150px;
+margin-top: 11%;
+margin-bottom: 20%;
+border-bottom: 8px solid #222;
+}
+
+.secondblock > h1{
+font-size: 50px;
+font-family: arial;
+}
+
+.secondblock > h2{
+margin-top: 10px;
+font-size: 30px;
+font-family: lato;
+}
+
+#gifone{
+margin-right: 55px;
+padding-bottom: 60px;
+float:right;
+vertical-align: middle;
+height: 350px;
+width: 450px;
+}
+
+/*third block*/
+
+.thirdblock {
+padding-left: 45%;
+padding-right: 95px;
+margin-top: 10%;
+margin-bottom: 11%;
+border-bottom: 8px solid #222;
+padding-bottom: 100px;
+
+}
+
+.thirdblock > h1{
+font-size: 50px;
+font-family: arial;
+
+}
+
+.thirdblock > h2{
+font-size: 25px;
+font-family: Gadugi;
+}
+
+#giftwo{
+margin-left: 30px;
+margin-bottom: 20px;
+}
+
+
+/*fourth block*/
+
+.fourthblock {
+padding-right: 50%;
+padding-left: 95px;
+margin-top: 11%;
+margin-bottom: 11%;
+border-bottom: 8px solid #222;
+padding-bottom: 200px;
+}
+
+.fourthblock > h1{
+font-size: 45px;
+font-family: arial;
+}
+
+.fourthblock > h2{
+font-size: 25px;
+font-family: Gadugi;
+
+}
+
+#gifthree{
+margin-right: 50px;
+margin-bottom: 20px;
+}
+
+
+/*fifth block*/
+
+.fifthblock {
+
+margin-top: 10%;
+margin-bottom: 10%;
+padding-bottom: 100px;
+border-bottom: 8px solid #222;
+}
+
+.fifthblock > h1{
+font-size: 40px;
+font-family: arial;
+text-align: center;
+margin-top: 20px;
+}
+
+.button1 {
+  background-color: #333333;
+  border: none;
+  color: white;
+  width: 70%;
+  text-decoration: none;
+  font-size: 35px;
+  margin-bottom: 5px;
+  position: relative;
+  height: 62px;
+  margin-left: 10%; 
+  margin-right: 10%;
+  text-align: left;
+}
+.button2 {
+  background-color: #333333;
+  border: none;
+  color: white;
+  width: 70%;
+  text-decoration: none;
+  font-size: 35px;
+  margin-bottom: 5px;
+  position: relative;
+  height: 62px; 
+  margin-left: 10%; 
+  margin-right: 10%;
+  text-align: left;
+}
+.button3 {
+  background-color: #333333;
+  border: none;
+  color: white;
+  width: 70%;
+  text-decoration: none;
+  font-size: 35px;
+  margin-bottom: 5px;
+  position: relative;
+  height: 62px;
+  margin-left: 10%; 
+  margin-right: 10%;
+text-align: left;
+}
+.button4 {
+  background-color: #333333;
+  border: none;
+  color: white;
+  width: 70%;
+  text-decoration: none;
+  font-size: 35px;
+  margin-bottom: 5px;
+  position: relative;
+  height: 62px;
+  margin-left: 10%; 
+  margin-right: 10%;
+text-align: left;
+}
+.button5 {
+  background-color: #333333;
+  border: none;
+  color: white;
+  width: 70%;
+  text-decoration: none;
+  font-size: 35px;
+  margin-bottom: 5px;
+  position: relative;
+  height: 62px;
+  margin-left: 10%; 
+  margin-right: 10%;
+  text-align: left;
+}
+
+.emailbutton{
+   width: 40%;
+   height: 60px;
+  margin-top: 30px;
+  padding-left: 30px;
+  margin-left: 10%; 
+  font-size: 25px;
+}
+ 
+#capsule{
+  margin-left: 10%; 
+  margin-right: 10%;
+  margin-top: 30px;
+}
+
+.button6 {
+  background-color: #CC0000;
+  border: none;
+  color: white;
+  width: 26%;
+  text-decoration: none;
+  font-size: 34px;
+  position: relative;
+  height: 64px;
+  margin-top: 30px;
+  margin-right:  0px
+}
+
+
+.footer {
+color: grey;
+font-family: arial;
+font-size: 15px;
+
+}
+
+.footer > h3{
+padding-left: 28%;
+padding-top: 5px;
+margin-top: 60px;
+margin-bottom: 0px;
+}
+
+
+/*responsiveness*/
+
+@media screen and (min-width: 401px) and (max-width: 750px){
+#gifone {
+  max-width: 100%;
+  height: auto;
+  align: center;
+}}
+
+@media screen and (max-width: 400px){
+#gifone {
+  max-width: 90%;
+  height: auto;
+   align: center;
+}}
+
+@media screen and (min-width: 401px) and (max-width: 750px){
+#giftwo {
+  max-width: 100%;
+  height: auto;
+ align: center;
+}}
+
+@media screen and (max-width: 400px){
+#giftwo {
+  max-width: 90%;
+  height: auto;
+  align: center;
+}}
+
+@media screen and (min-width: 401px) and (max-width: 750px){
+#gifthree {
+  max-width: 100%;
+  height: auto;
+  align: center;
+}}
+
+@media screen and (max-width: 400px){
+#gifthree {
+  max-width: 90%;
+  height: auto;
+  align: center;
+}}
+
+/*trybutton*/
+
+@media screen and (max-width: 500px){
+ 
+.classemail{
+ padding-right: 85%;
+ margin-bottom: 20px;
+}
+
+  .trybutton{
+    width: 35%;
+text-decoration: none;
+font-size: 15px;
+height: 55px;
+background-color: #990000;
+color: white;
+    
+  }
+
+.button6{
+  
+ width: 60%;
+  text-decoration: none;
+  font-size: 34px;
+  position: relative;
+  height: 93%;
+  margin-top: 33px;
+  margin-right:  0px;
+  padding-left: 40px;
+  left: 30%;
+}
+
+.emailbutton{
+   width: 80%;
+   height: 60px;
+  margin-top: 30px;
+  padding-left: 30px;
+  margin-left: 10%; 
+  font-size: 25px;
+}  
+
+h1{
+ font-size: 30px;
+ text-align: center;
+}
+
+h2{
+ font-size: 20px;
+ text-align: center;
+
+}
+ 
+.button2{
+ height: 40%;
+}
+
+.button5{
+ height: 40%;
+}
+
+}
+
+
+
+@media screen and (max-width: 900px){
+ 
+.classemail{
+ padding-right: 55%;
+ margin-bottom: 20px;
+}
+
+  .trybutton{
+    width: 35%;
+text-decoration: none;
+font-size: 15px;
+height: 55px;
+background-color: #990000;
+color: white;
+    
+  }
+
+.button6{
+  
+ width: 45%;
+  text-decoration: none;
+  font-size: 34px;
+  position: relative;
+  height: 63%;
+  margin-top: 33px;
+  margin-right:  0px;
+  padding-left: 40px;
+  left: 30%;
+}
+
+.emailbutton{
+   width: 80%;
+   height: 60px;
+   padding-right: 10%;
+ 
+}  
+
+}
+
+
+@media screen and (min-width: 901px) and (max-width: 1000px){
+ 
+
+
+  .trybutton{
+    width: 35%;
+text-decoration: none;
+font-size: 15px;
+height: 55px;
+background-color: #990000;
+color: white;
+    
+  }
+
+.button6{
+  
+ width: 40%;
+  text-decoration: none;
+  font-size: 34px;
+  position: relative;
+  height: 85%;
+  margin-top: 33px;
+  margin-right:  0px;
+  padding-left: 40px;
+  left: 30%;
+ color: white;
+}
+
+.emailbutton{
+   width: 80%;
+   height: 60px;
+   padding-right: 10%;
+}
+ 
+#gifthree{
+   width: 40%;
+   height: 60%;
+  }
+
+}
